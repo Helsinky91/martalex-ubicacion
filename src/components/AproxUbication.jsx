@@ -14,28 +14,52 @@ function AproxUbication() {
       <table>
         <thead>
           <tr>
-            <th>Ciudad de Origen</th>
-            <th>Tiempo Aprox (h)</th>
-            <th>Kilómetros Aprox</th>
+            <th>Origen</th>
+            <th>Tiempo aprox</th>
+            <th>Km aprox</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Desde Barcelona</td>
-            <td>1.75</td>
-            <td>130</td>
+            <td>Barcelona</td>
+            <td>1h 45min</td>
+            <td>130 Km</td>
           </tr>
           <tr>
-            <td>Desde Leciñena</td>
-            <td>4</td>
-            <td>370</td>
+            <td>Leciñena</td>
+            <td>4h</td>
+            <td>370 Km</td>
           </tr>
           <tr>
-            <td>Desde Zaragoza</td>
-            <td>3.75</td>
-            <td>380</td>
+            <td>Montmeló</td>
+            <td>1h 15min</td>
+            <td>110 Km</td>
           </tr>
-          {/* Add more rows as needed */}
+          <tr>
+            <td>Murcia</td>
+            <td>6h</td>
+            <td>710 Km</td>
+          </tr>
+          <tr>
+            <td>Vilanova i la Geltrú</td>
+            <td>2h</td>
+            <td>180 Km</td>
+          </tr>
+          <tr>
+            <td>Zaragoza</td>
+            <td>3h 45</td>
+            <td>380 Km</td>
+          </tr>
+          <tr>
+            <td>Granada</td>
+            <td>9h 30min</td>
+            <td>975 Km</td>
+          </tr>
+          <tr>
+            <td>Mataró</td>
+            <td>1h 15min</td>
+            <td>100 Km</td>
+          </tr>
         </tbody>
       </table>
       </div>
