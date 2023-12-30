@@ -10,7 +10,7 @@ function AproxUbication() {
       {/* <img src={spainMapRed} alt="mapa de España" width={550}/> */}
       <div className="boda-info">
         
-      <p>Informació sobre distàncies / Información sobre distáncias</p>
+      
       <table>
         <thead>
           <tr>
@@ -20,15 +20,10 @@ function AproxUbication() {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td>Barcelona</td>
-            <td>1h 45min</td>
-            <td>130 Km</td>
-          </tr>
-          <tr>
-            <td>Leciñena</td>
-            <td>4h</td>
-            <td>370 Km</td>
+        <tr>
+            <td>Mataró</td>
+            <td>1h 15min</td>
+            <td>100 Km</td>
           </tr>
           <tr>
             <td>Montmeló</td>
@@ -36,9 +31,9 @@ function AproxUbication() {
             <td>110 Km</td>
           </tr>
           <tr>
-            <td>Murcia</td>
-            <td>6h</td>
-            <td>710 Km</td>
+            <td>Barcelona</td>
+            <td>1h 45min</td>
+            <td>130 Km</td>
           </tr>
           <tr>
             <td>Vilanova i la Geltrú</td>
@@ -47,8 +42,43 @@ function AproxUbication() {
           </tr>
           <tr>
             <td>Zaragoza</td>
-            <td>3h 45</td>
+            <td>3h 45min</td>
             <td>380 Km</td>
+          </tr>
+          <tr>
+            <td>Plasencia del Monte</td>
+            <td>4h</td>
+            <td>360 Km</td>
+          </tr>
+          <tr>
+            <td>Leciñena</td>
+            <td>4h</td>
+            <td>370 Km</td>
+          </tr>
+          <tr>
+            <td>València</td>
+            <td>4h 50min</td>
+            <td>370 Km</td>
+          </tr>
+          <tr>
+            <td>Murcia</td>
+            <td>6h</td>
+            <td>710 Km</td>
+          </tr>
+          <tr>
+            <td>Durango</td>
+            <td>7h 15min</td>
+            <td>700 Km</td>
+          </tr>
+          <tr>
+            <td>Colindres</td>
+            <td>7h 20min</td>
+            <td>730 Km</td>
+          </tr>
+          <tr>
+            <td>Madrid</td>
+            <td>7h 30min</td>
+            <td>700 Km</td>
           </tr>
           <tr>
             <td>Granada</td>
@@ -56,10 +86,11 @@ function AproxUbication() {
             <td>975 Km</td>
           </tr>
           <tr>
-            <td>Mataró</td>
-            <td>1h 15min</td>
-            <td>100 Km</td>
+            <td>Bruxelles</td>
+            <td>13h 40min</td>
+            <td>1264 Km</td>
           </tr>
+          
         </tbody>
       </table>
       </div>

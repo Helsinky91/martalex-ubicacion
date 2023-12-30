@@ -25,9 +25,15 @@ h1 {
 .boda-info {
   text-align: center;
   
-
- 
 }
+.toggle-lang a {
+ text-decoration: none;
+ color: white;
+ background-color: #74C1DD;
+ padding: 4px;
+ border-radius: 8px; 
+}
+ 
 table {
   /* margin-top: 20px; 
   margin-left: 20px; */
