@@ -1,6 +1,6 @@
 import React from 'react'
 // import { Link } from 'react-router-dom'
-import spainMapRed from "../assets/SpainMapRed.png"
+
 
 function AproxUbication() {
   return (

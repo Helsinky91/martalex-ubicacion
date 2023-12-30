@@ -28,11 +28,20 @@ h1 {
 }
 .toggle-lang a {
  text-decoration: none;
- color: white;
+ color: black;
  background-color: #74C1DD;
- padding: 4px;
+ padding: 5px;
  border-radius: 8px; 
 }
+
+.toggle-lang a:hover {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+  background-color: #74C1DD;
+  padding: 5px;
+  border-radius: 8px; 
+ }
  
 table {
   /* margin-top: 20px; 
