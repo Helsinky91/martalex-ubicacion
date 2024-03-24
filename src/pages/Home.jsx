@@ -9,7 +9,7 @@ function Home() {
     
     <div className="">
         <Header/>
-      <AproxUbication/>
+      {/* <AproxUbication/> */}
       {/* <ExactUbication/> */}
     </div>
   )

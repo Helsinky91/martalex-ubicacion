@@ -4,8 +4,10 @@ import { Link } from 'react-router-dom'
 function Error() {
   return (
     <div className="error-page">
-      <h1 >Nuestros desarrolladores cometieron un error, estamos trabjando en ello!</h1>
-      <Link to={"/"}>Vuelve a ver la ubicación</Link>
+       
+          <h2>Hubo un error en el servidor, por favor inténtalo de nuevo más tarde.</h2>
+          <button className="btn btn-yellow"><Link to={"/"}>VUELVE A LA PÁGINA DE INICIO</Link></button>
+        
     </div>
   )
 }

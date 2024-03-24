@@ -28,66 +28,91 @@ function AproxUbication() {
           <tr>
             <td>Montmeló</td>
             <td>1h 15min</td>
+            <td>100 Km</td>
+          </tr>
+          <tr>
+            <td>Premià</td>
+            <td>1h 15min</td>
             <td>110 Km</td>
           </tr>
           <tr>
             <td>Barcelona</td>
-            <td>1h 45min</td>
+            <td>1h 30min</td>
+            <td>125 Km</td>
+          </tr>
+          <tr>
+            <td>Sant Just Desvern</td>
+            <td>1h 30min</td>
             <td>130 Km</td>
+          </tr>
+          <tr>
+            <td>Castellbisbal</td>
+            <td>1h 30min</td>
+            <td>135 Km</td>
           </tr>
           <tr>
             <td>Vilanova i la Geltrú</td>
             <td>2h</td>
+            <td>170 Km</td>
+          </tr>
+          <tr>
+            <td>Cunit</td>
+            <td>2h</td>
             <td>180 Km</td>
           </tr>
           <tr>
-            <td>Zaragoza</td>
-            <td>3h 45min</td>
-            <td>380 Km</td>
+            <td>Lleida</td>
+            <td>2h 30min</td>
+            <td>250 Km</td>
           </tr>
           <tr>
             <td>Plasencia del Monte</td>
-            <td>4h</td>
-            <td>360 Km</td>
+            <td>3h 45min</td>
+            <td>385 Km</td>
           </tr>
           <tr>
             <td>Leciñena</td>
             <td>4h</td>
-            <td>370 Km</td>
+            <td>3850 Km</td>
+          </tr>
+          <tr>
+            <td>Zaragoza</td>
+            <td>4h</td>
+            <td>400 Km</td>
           </tr>
           <tr>
             <td>València</td>
-            <td>4h 50min</td>
-            <td>370 Km</td>
+            <td>4h 30min</td>
+            <td>465 Km</td>
           </tr>
           <tr>
             <td>Murcia</td>
-            <td>6h</td>
-            <td>710 Km</td>
+            <td>6h 45min</td>
+            <td>690 Km</td>
           </tr>
           <tr>
             <td>Durango</td>
-            <td>7h 15min</td>
-            <td>700 Km</td>
+            <td>6h 45min</td>
+            <td>715 Km</td>
           </tr>
           <tr>
             <td>Colindres</td>
-            <td>7h 20min</td>
-            <td>730 Km</td>
+            <td>7h</td>
+            <td>750 Km</td>
           </tr>
           <tr>
             <td>Madrid</td>
-            <td>7h 30min</td>
-            <td>700 Km</td>
+            <td>7h 15min</td>
+            <td>730 Km</td>
           </tr>
           <tr>
             <td>Granada</td>
-            <td>9h 30min</td>
-            <td>975 Km</td>
+            <td>9h</td>
+            <td>960 Km</td>
           </tr>
           <tr>
             <td>Bruxelles</td>
-            <td>13h 40min</td>
+            <td>12h 15min</td>
             <td>1264 Km</td>
           </tr>
           
