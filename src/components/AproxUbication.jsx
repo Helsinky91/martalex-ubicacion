@@ -73,7 +73,7 @@ function AproxUbication() {
           <tr>
             <td>Leciñena</td>
             <td>4h</td>
-            <td>3850 Km</td>
+            <td>385 Km</td>
           </tr>
           <tr>
             <td>Zaragoza</td>
@@ -113,7 +113,7 @@ function AproxUbication() {
           <tr>
             <td>Bruxelles</td>
             <td>12h 15min</td>
-            <td>1264 Km</td>
+            <td>1265 Km</td>
           </tr>
           
         </tbody>
