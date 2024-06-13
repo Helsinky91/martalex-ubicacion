@@ -77,7 +77,7 @@ function Header() {
               </thead>
               <tbody>
                 <tr>
-                  <td>TaxisBanyonles.com</td>
+                  <td>TaxisBanyoles.com</td>
                   <td><a href="https://taxisbanyoles.com/" target="_blank" rel="noopener noreferrer">Aquí</a></td>
 
                 </tr>
@@ -237,7 +237,7 @@ function Header() {
               </thead>
               <tbody>
                 <tr>
-                  <td>TaxisBanyonles.com</td>
+                  <td>TaxisBanyoles.com</td>
                   <td><a href="https://taxisbanyoles.com/" target="_blank" rel="noopener noreferrer">Aquí</a></td>
 
                 </tr>
