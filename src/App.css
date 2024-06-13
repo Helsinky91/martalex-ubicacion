@@ -126,6 +126,23 @@ th {
   color: black
 }
 
+.btn-maps {
+  background-color: #F2CD36;
+  color: black;
+  padding: 5px;
+  border-radius: 8px; 
+  text-decoration: none;
+  
+}
+
+.btn-maps:hover {
+  background-color:#c9a92b;
+  font-weight: bolder;
+}
+
+
+
+
 /* .important-info {
  font-size: larger;
  font-weight: 600;
